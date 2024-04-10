@@ -1,0 +1,15 @@
+/Users/tylerbreithaupt/Desktop/CIT195/ThreadRace/bin/Debug/net7.0/ThreadRace
+/Users/tylerbreithaupt/Desktop/CIT195/ThreadRace/bin/Debug/net7.0/ThreadRace.deps.json
+/Users/tylerbreithaupt/Desktop/CIT195/ThreadRace/bin/Debug/net7.0/ThreadRace.runtimeconfig.json
+/Users/tylerbreithaupt/Desktop/CIT195/ThreadRace/bin/Debug/net7.0/ThreadRace.dll
+/Users/tylerbreithaupt/Desktop/CIT195/ThreadRace/bin/Debug/net7.0/ThreadRace.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/ThreadRace/obj/Debug/net7.0/ThreadRace.csproj.AssemblyReference.cache
+/Users/tylerbreithaupt/Desktop/CIT195/ThreadRace/obj/Debug/net7.0/ThreadRace.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerbreithaupt/Desktop/CIT195/ThreadRace/obj/Debug/net7.0/ThreadRace.AssemblyInfoInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/ThreadRace/obj/Debug/net7.0/ThreadRace.AssemblyInfo.cs
+/Users/tylerbreithaupt/Desktop/CIT195/ThreadRace/obj/Debug/net7.0/ThreadRace.csproj.CoreCompileInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/ThreadRace/obj/Debug/net7.0/ThreadRace.dll
+/Users/tylerbreithaupt/Desktop/CIT195/ThreadRace/obj/Debug/net7.0/refint/ThreadRace.dll
+/Users/tylerbreithaupt/Desktop/CIT195/ThreadRace/obj/Debug/net7.0/ThreadRace.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/ThreadRace/obj/Debug/net7.0/ThreadRace.genruntimeconfig.cache
+/Users/tylerbreithaupt/Desktop/CIT195/ThreadRace/obj/Debug/net7.0/ref/ThreadRace.dll
